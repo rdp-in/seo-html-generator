@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: SEO HTML Generator
+Plugin URI: https://github.com/rdp-in/seo-html-generator
 Author: Ramandeep Singh
 Description: Generates html code for Yoast SEO options. Usefull when migrating Wordpress SEO to Static HTMl sites.
 Version: 1.0
